@@ -1,4 +1,4 @@
-<h1 align="center">Cenário 2D - Computação Gráfica</h1>
+<h1 align="center">🏠 Cenário 2D - Computação Gráfica 🏠</h1>
 
 ## 📌Funcionalidades:
 
