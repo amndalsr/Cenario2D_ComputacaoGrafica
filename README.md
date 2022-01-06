@@ -1,4 +1,4 @@
-<h1 align="center">🏠 Cenário 2D - Computação Gráfica 🏠</h1>
+<h1 align="center">🏠 Cenário 2D - Computação Gráfica 🎄</h1>
 
 ## 📌Funcionalidades:
 
@@ -15,3 +15,7 @@ canto inferior esquerdo;
 <div align="center">
   <img height="400em" src="https://user-images.githubusercontent.com/72527935/148316063-44079062-507e-465f-93c7-1da84403aaf3.jpg" >
 </div>
+
+##
+
+<p> Projeto proposto na disciplina de Computação Gráfica, do curso de Ciência da Computação, 5 período. </p>
