@@ -18,4 +18,4 @@ canto inferior esquerdo;
 
 ##
 
-<p> Projeto proposto na disciplina de Computação Gráfica, do curso de Ciência da Computação, 5 período. </p>
+<p> Projeto proposto na disciplina de Computação Gráfica, do curso de Ciência da Computação, 4 período. </p>
